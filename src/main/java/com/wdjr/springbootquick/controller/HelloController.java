@@ -13,7 +13,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public  String  hello(){
-        return "hello worlda";
+        return "hello world";
     }
     //REST API
 }
