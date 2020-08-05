@@ -13,7 +13,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public  String  hello(){
-        return "hello world 煎饼侠";
+        return "hello asdaworld 煎饼侠";
     }
     //REST API
 }
